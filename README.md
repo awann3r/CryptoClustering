@@ -1,4 +1,4 @@
-# Unsupervise ML Challenge
+# Unsupervised ML Challenge
 
 ## Background 
 For this challenge, the task is to use Python and unsupervised learning to predict if cryptocurrencies are affcted by 24-hr or 7-day price changes.
